@@ -101,10 +101,10 @@ Download and unzip all the files in one directory.
 
 To setup your own blog, please read the **README.md** of the theme and modify accordingly.
 Usually all you need to do is:
-- modify the file *_config.yml* and other files with extension name *.yml*
-- replace the words in the file *about*
-- replace *favicon.ico* with your own
-- replace the pictures in the directory *image*
+- modify the file *_config.yml* and other files with extension name **.yml**
+- replace the words in the file **about**
+- replace **favicon.ico** with your own
+- replace the pictures in the **image** directory
 
 Go to the theme directory and run Jekyll, you can preview your modification in realtime.
 Some themes require bundle install, some don't. Check **README.md** first.
@@ -125,7 +125,9 @@ Now you can go to [http://127.0.0.1:4000](http://127.0.0.1:4000) to preview the 
 
 ### Upload
 
-After the modifacation copy all the files to the directory we built in step 2, **username.github.io** = local repository
+After the modifacation copy all the files to the directory we built in step 2: 
+**username.github.io** 
+
 On the terminal, go to the local repository and run git to upload the blog
 
 ```bash
@@ -166,7 +168,7 @@ tags:
 ```
 
 Refer to the sample post in the  *_post* directory for the format of front matter you need.
-Upload your post via terminal using **git** or via browser.
+Upload your post via terminal using **git** or via **browser**.
 Done!
 
 ---
