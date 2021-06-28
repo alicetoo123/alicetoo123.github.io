@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	How I Built This Blog (Mac Ver)
-subtitle:	creat a simple blog using GitHub pages and Jekyll
+subtitle:	create a simple blog using GitHub pages and Jekyll
 date:	2021-06-28
 author:	Alice
 header-img:	img/post-bg-1.jpg
