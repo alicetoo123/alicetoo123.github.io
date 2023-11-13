@@ -91,7 +91,7 @@ $ gem install jekyll
 
 #### 5. Choose a Theme
 
-Mine is from [here](https://www.ruby-lang.org/en/documentation/installation/).
+Mine is from [here](https://github.com/qiubaiying/qiubaiying.github.io).
 Find more [here](http://jekyllthemes.org).
 Download and unzip all the files in one directory.
 
